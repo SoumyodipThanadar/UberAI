@@ -1,0 +1,4 @@
+Dataset Summary
+Total records: 150000
+Date range: 2024-01-01 to 2024-12-30
+Columns: date, time, booking_id, booking_status, customer_id, vehicle_type, pickup_location, drop_location, avg_vtat, avg_ctat, cancelled_rides_by_customer, reason_for_cancelling_by_customer, cancelled_rides_by_driver, driver_cancellation_reason, incomplete_rides, incomplete_rides_reason, booking_value, ride_distance, driver_ratings, customer_rating, payment_method, booking_time, hour, weekday, month, year, day_of_month, time_of_day, weekday_name

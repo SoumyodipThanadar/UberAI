@@ -14,5 +14,5 @@ def forecast_demand(path):
     return forecast[['ds', 'yhat']]
 
 if __name__ == "__main__":
-    forecast = forecast_demand("Dataset/daily_demand.csv")
-    forecast.to_csv("Dataset/demand_forecast.csv", index=False)
+    forecast = forecast_demand("UberAI/Dataset/daily_demand.csv")
+    forecast.to_csv("UberAI/Dataset/demand_forecast.csv", index=False)
